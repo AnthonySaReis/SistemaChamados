@@ -1,0 +1,12 @@
+.h1-customers{
+    font-size: 1.5em;
+    padding: 0.5em 0 0.5em
+}
+.list-customers li{
+    font-size: 1.1em;
+    margin-top: 0.5em;
+    background-color: #ccc5;
+    padding: 0.5em;
+    border-radius: 6px;
+    max-width: 600px;
+}
