@@ -1,70 +1,128 @@
-# Getting Started with Create React App
+## Technology 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here are the technologies used in this project.
 
-## Available Scripts
+* ReactJs 
+* CSS3
+* HTML5
+* JavaScript
+* react-router-dom
+* react-toastify
 
-In the project directory, you can run:
+## Services Used
+* Firebase
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* To install the dependecies.
+  - npm install
+  
+* To run the project.
+  - cd sistema
+  - npm start
 
-### `npm test`
+## How to use
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 1 - When you access, you will see the Login page of this site
 
-### `npm run build`
+This is the initial screen, if you don't have account, you can create an account.
+  
+  - LOGIN PAGE
+![Homepage image](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/login.png)
+  - REGISTER PAGE
+![Homepage image](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/registro.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 2 - After connecting, you will have access to the site's features:
+ - Yout initial Dashboard
+  
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/dashboardInicial.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- In edit profile (Configurações) you can change your profile pic and your name: 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/configuraçõesPerfil.png)
 
-### `npm run eject`
+- In register customer (Clientes) you can register new customer:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/registrarCliente.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- After register...:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/clientesCadastrados.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- After you register a customer you will be redirected to register calls (Novo Chamado) you can register new call:
 
-## Learn More
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/registrarChamado.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Now this is your Dashboard, you can see your calls and can filter by creator:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/dashboardMiddle.png)
 
-### Code Splitting
+- You can click in search for more details:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/detalhes.png)
 
-### Analyzing the Bundle Size
+- If you click in pencil you will be redirect to edit calls:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/editarChamado.png)
 
-### Making a Progressive Web App
+- And you can exclude a call on click in x button:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/chamadoDeletado.png)
 
-### Advanced Configuration
+### Responsive design:
+- Login
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileLogin.png)
 
-### Deployment
+- Register
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileRegister.png)
 
-### `npm run build` fails to minify
+- Dashboard initial
+- 
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileDashboardInitial.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Edit profile
+
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileConfigs.png)
+
+
+- Customers
+
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileCostumers.png)
+
+- Calls
+
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileCall.png)
+
+- Dashbord with call
+
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileDashboardMiddle.png)
+
+- More details
+
+![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileDetail.png)
+
+
+### All data will be saved in firestore database!
+
+## Features
+
+The main features of the application are:
+- team organization
+- attendance control
+- view calls, edit and exclude
+- customer control
+
+  ## Versioning
+
+  1.0.0.0
+
+
+  ## Authors
+
+  * **Anthony Sá Reis** 
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
