@@ -80,7 +80,7 @@ This is the initial screen, if you don't have account, you can create an account
 ![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileRegister.png)
 
 - Dashboard initial
-- 
+
 ![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/mobileDashboardInitial.png)
 
 - Edit profile
