@@ -34,7 +34,7 @@ This is the initial screen, if you don't have account, you can create an account
 ![Homepage image](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/registro.png)
 
 ### 2 - After connecting, you will have access to the site's features:
- - Yout initial Dashboard
+ - Your initial Dashboard
   
 ![Post show](https://github.com/AnthonySaReis/SistemaChamados/blob/main/src/fator/dashboardInicial.png)
 
